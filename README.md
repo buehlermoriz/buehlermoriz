@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Moriz Bühler](https://moriz-buehler.de/), a interessted Student, studiing Onlinemedia at DHBW Mosbach. I`m working as a Student at Schwäbisch Media in Ravensburg, Germany
+Hi, I'm [Moriz Bühler](https://moriz-buehler.de/), a interessted Student, studying Onlinemedia at DHBW Mosbach. I`m working as a Student at Schwäbisch Media in Ravensburg, Germany
 
   
 - 💼 Interessted in my work? do reach, [email](mailto:buehlermoriz@gmail.com) :)
