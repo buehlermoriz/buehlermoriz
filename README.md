@@ -13,7 +13,7 @@
 Hi, I'm [Moriz Bühler](https://moriz-buehler.de/), an interessted Student, studying Onlinemedia at DHBW Mosbach. I`m working as a Student at Schwäbisch Media in Ravensburg, Germany
 
   
-- 💼 Interessted in my work? do reach, [email](mailto:buehlermoriz@gmail.com) :)
+- 💼 Interessted in my work? Do reach me via [email](mailto:buehlermoriz@gmail.com) :)
 
 **languages and tools:**  
 
