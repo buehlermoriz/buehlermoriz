@@ -6,11 +6,11 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=buehlermoriz.buehlermoriz)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=buehlermoriz.visitor-badge.issue.1)
 
 <br />
 
-hi, i'm [Moriz Bühler](https://moriz-buehler.de/), a interessted Student, studiing Onlinemedia at DHBW Mosbach. i`m working as a Student at Schwäbisch Media in Ravensburg, Germany
+Hi, I'm [Moriz Bühler](https://moriz-buehler.de/), a interessted Student, studiing Onlinemedia at DHBW Mosbach. I`m working as a Student at Schwäbisch Media in Ravensburg, Germany
 
   
 - 💼 Interessted in my work? do reach, [email](mailto:buehlermoriz@gmail.com) :)
