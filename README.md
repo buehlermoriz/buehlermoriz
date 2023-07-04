@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=buehlermoriz.visitor-badge.issue.1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=buehlermoriz&left_color=green&right_color=red)
 
 <br />
 
