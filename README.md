@@ -2,11 +2,6 @@
 <a href="https://de.linkedin.com/in/moriz-b%C3%BChler-a77129199">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/morizbuehler123?si=YTtHmdlnS0iQtf3TIQRQkw">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=buehlermoriz&left_color=green&right_color=red)
 
 <br />
 
